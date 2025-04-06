@@ -42,7 +42,7 @@
 </head>
 <body>
   <!-- SUBSTITUA "NOME-DA-IMAGEM.png" PELO NOME REAL DO SEU ARQUIVO -->
-  <img class="logo" src="NOME-DA-IMAGEM.png" alt="Icarus Logo">
+  <img class="logo" src="ChatGPT Image Apr 5, 2025 at 11_44_17 ..." alt="Logo">
   <div class="loader"></div>
   <div class="text">Loading Terms of Service...</div>
 </body>
